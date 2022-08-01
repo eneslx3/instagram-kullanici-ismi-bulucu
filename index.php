@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="adas"></div>
-<input type="number" id="lsay"/>
+<input type="4" id="lsay"/>
 <button onclick="letsgo()">Başlat</button>
 <script>
 function letsgo(){
